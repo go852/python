@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'your_api_key_here'
+API_KEY = 'sk-b2997eadee2844eb9cc9a31c99665aba'
 API_URL = 'https://api.deepseek.com/v1/analyze'
 
 headers = {
